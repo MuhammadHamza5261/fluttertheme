@@ -55,12 +55,6 @@ class _FlutterThemeSTFState extends State<FlutterThemeSTF> {
               style: AppTheme.lightTextTheme.titleLarge,
 
 
-
-
-
-
-
-
             ),
           ),
           SizedBox(
